@@ -3,3 +3,5 @@ Simple quote page based on my Preyer Hugo Award winner short story "Férfiak né
 
 Here is the link for the page
 https://mabtee.github.io/Withoutmen/
+
+From the site you can navigate to my Facebook author page or listen to the song by Freddie - Pioneer (Grandfinal - Eurovison 2016)
